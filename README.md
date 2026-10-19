@@ -18,6 +18,7 @@ The workshop on Field Robotics 2026 is over and was a tremendous success! We rec
 </h3>
 
 ## Posters
+
 |                                                                                                                                                                                                                                                                               |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **[A Novel Trajectory Evaluation Metric: Distance Travelled Error (DTE)](https://norlab.ulaval.ca/icra_workshop_field_robotics/posters/45.pdf)**<br>Effie Daum (Université Laval)*; Daniele De Martini (Oxford Robotics Institue, Oxford University); François Pomerleau (Université Laval) |
