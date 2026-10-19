@@ -18,8 +18,8 @@ The workshop on Field Robotics 2026 is over and was a tremendous success! We rec
 </h3>
 
 ## Posters
-|  |
-|:---|
+|                                                                                                                                                                                                                                                                               |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **[A Novel Trajectory Evaluation Metric: Distance Travelled Error (DTE)](https://norlab.ulaval.ca/icra_workshop_field_robotics/posters/45.pdf)**<br>Effie Daum (Université Laval)*; Daniele De Martini (Oxford Robotics Institue, Oxford University); François Pomerleau (Université Laval) |
 | **[A Tracked Robot for Proximal Ecological Sensing in Coastal Dune](https://norlab.ulaval.ca/icra_workshop_field_robotics/posters/41.pdf)**<br>Francesco Iotti (Università di Pisa)*; Giovanni Di Lorenzo (Università di Pisa); Gabriele Gambino (Università di Pisa); Franco  Angelini (Università di Pisa); Manolo Garabini (Università di Pisa) |
 | **[An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack](https://norlab.ulaval.ca/icra_workshop_field_robotics/posters/21.pdf)**<br>Quentin Picard (AMIAD)*; Remi Marsal (ENSTA); Adrien Poiré (ENSTA); Sébastien Kerbourc'h (ENSTA); Thibault Toralba (ENSTA); Clément Yver (ENSTA); Alexandre Chapoutot (ENSTA); David Filliat (AMIAD) |
