@@ -13,6 +13,10 @@
 
 The workshop on Field Robotics 2026 is over and was a tremendous success! We received many contributions, out of which the presented posters are listed in the following section.
 
+<h3 style="text-align:center;">
+     <a href="https://norlab-ulaval.github.io/icra_workshop_field_robotics/">Link to the current edition</a>
+</h3>
+
 ## Posters
 |  |
 |:---|
