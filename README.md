@@ -11,7 +11,7 @@
 
 ## Thanks!
 
-The workshop on Field Robotics 2026 is over and was a tremendous success! We received many contributions, out of which the presented posters are listed in the following section.
+The workshop on Field Robotics 2026 is over and was a tremendous success! We received 71 contributions, of which the presented posters are listed in the following section. We had a fully booked event with 200 researchers in the room. The event was so popular that security guards were at the entrance to limit the crowd. Moreover, a special issue at IEEE T-FR is on its way to bring forward the incredible research presented during our workshop.
 
 <h3 style="text-align:center;">
      <a href="https://norlab-ulaval.github.io/icra_workshop_field_robotics/">Link to the current edition</a>
